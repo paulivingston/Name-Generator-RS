@@ -50,15 +50,6 @@ main {
     margin: 2% 15% 0% 15%;
 }
 
-#generate, #copy {
-    background-color: #e700b0; 
-    border: #e700b0;
-}
-
-#generate:focus, #copy:focus {
-    box-shadow: none;
-}
-
 .form-group {
     margin-bottom: 10px;
 }
